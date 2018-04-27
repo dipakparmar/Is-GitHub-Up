@@ -1,0 +1,21 @@
+{
+  "name": "github-status-checker",
+  "version": "1.0.0",
+  "description": "Return the Status of Github Server, is it up, down or having minor issues.",
+  "main": "status.js",
+  "scripts": {
+    "main": "node status.js"
+  },
+  "keywords": [
+    "github",
+    "status",
+    "github",
+    "up",
+    "status"
+  ],
+  "author": "Dipak Parmar",
+  "license": "GPL",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
