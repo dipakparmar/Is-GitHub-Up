@@ -11,16 +11,16 @@ request({
     if (!error && response.statusCode === 200) {
         
 			if(body.status=='good'){
-			console.log("Everything operating normally.");
+			console.log("✅ Everything operating normally.");
 			console.log("Last Updated: "+body.last_updated);
 			}
 			
 			else if(body.status=='minor'){
-				console.log("Some minor issues, effecting the server.");
+				console.log("⚠️ Some minor issues, effecting the server.");
 				console.log("Last Updated: "+body.last_updated);
 			}
 			else{
-			console.log("Server is Down.");
+			console.log("❌ Server is Down.");
 			console.log("Last Updated: "+body.last_updated);
 			}
     }

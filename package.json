@@ -14,7 +14,7 @@
     "status"
   ],
   "author": "Dipak Parmar",
-  "license": "GPL",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.85.0"
   }
