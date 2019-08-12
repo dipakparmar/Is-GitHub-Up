@@ -13,6 +13,10 @@
     "up",
     "status"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/https://github.com/dipakparmar/Is-GitHub-Up/Is-GitHub-Up.git"
+  },
   "author": "Dipak Parmar",
   "license": "MIT",
   "dependencies": {
