@@ -1,6 +1,6 @@
 {
   "name": "github-status-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return the Status of Github Server, is it up, down or having minor issues.",
   "main": "status.js",
   "scripts": {
