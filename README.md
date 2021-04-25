@@ -1,6 +1,8 @@
 is GitHub up?
 =============
 
+[No longer maintained: but still works with new API]
+
 on a good day:
 
 ```sh
